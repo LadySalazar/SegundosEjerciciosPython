@@ -9,6 +9,20 @@ def ejercicioRango(LimiteInf, LimiteSup, numero):
                 cont = cont + 1
     return list
 def main ():
-    print(ejercicioRango(2,21,3))
+    print("Bienvenido al programa de la ejercicio de rango")
+    LimiteInf = -1
+    while LimiteInf < 0:
+        LimiteInf = int(input("por favor ingrese el limite inferior:  "))
+
+    LimiteSup = -1
+    while LimiteSup < 0 or LimiteSup<LimiteInf:
+        LimiteSup = int(input("por favor ingrese el limite Superior:  "))
+
+    numero=-1
+    while LimiteInf>numero or numero>LimiteSup:
+        numero = int(input("por favor ingrese el numero:  "))
+
+    print(ejercicioRango(LimiteInf,LimiteSup,numero))
+
 if __name__ == '__main__':
     main()
