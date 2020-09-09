@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b0d6ef0-2d5f-4b02-afe4-979b6adc4dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EjericioPalindromos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_EjericioPalindromos.py" afterDir="false" />
+    <list default="true" id="e904c255-e90e-4332-91a3-b524f5afeeed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EjercicioRangos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1hFk2tMwXnrAGtxIO2ijEZnCoJK" />
+  <component name="ProjectId" id="1hFpTrGvCUz5fCG8PfWU3sAYRci" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,8 +48,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_EjericioPalindromos.py">
-    <configuration name="EjericioPalindromos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="EjercicioRangos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SegundosEjerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EjericioPalindromos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EjercicioRangos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,50 +70,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_EjericioPalindromos.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SegundosEjerciciosPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_EjericioPalindromos.Test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test_EjericioPalindromos.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SegundosEjerciciosPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_EjericioPalindromos.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test_EjericioPalindromos.py" />
-        <item itemvalue="Python.EjericioPalindromos" />
-        <item itemvalue="Python tests.Unittests for test_EjericioPalindromos.Test" />
+        <item itemvalue="Python.EjercicioRangos" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b0d6ef0-2d5f-4b02-afe4-979b6adc4dd7" name="Default Changelist" comment="" />
-      <created>1599614023658</created>
+      <changelist id="e904c255-e90e-4332-91a3-b524f5afeeed" name="Default Changelist" comment="" />
+      <created>1599616704795</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599614023658</updated>
+      <updated>1599616704795</updated>
     </task>
     <servers />
   </component>
@@ -128,21 +99,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1599616071002">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1599618844819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599616071002" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1599616071002">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599618844819" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1599618844819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599616071002" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1599616071001">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599618844819" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1599618844819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599616071001" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1599616071002">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599618844819" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1599618844819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599616071002" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599618844819" />
   </component>
 </project>
