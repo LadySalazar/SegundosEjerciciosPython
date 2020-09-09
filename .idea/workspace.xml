@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e904c255-e90e-4332-91a3-b524f5afeeed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_EjercicioRangos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjercicioRangos.py" beforeDir="false" afterPath="$PROJECT_DIR$/EjercicioRangos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.EjercicioRangos">
     <configuration name="EjercicioRangos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SegundosEjerciciosPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,9 +69,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for test_EjercicioRangos.Test.test_ejercicio_rango" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SegundosEjerciciosPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_EjercicioRangos.Test.test_ejercicio_rango&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.EjercicioRangos" />
+        <item itemvalue="Python tests.Unittests for test_EjercicioRangos.Test.test_ejercicio_rango" />
       </list>
     </recent_temporary>
   </component>
@@ -98,21 +113,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1599619554203">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1599619941815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599619554203" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1599619554203">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599619941815" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1599619941814">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599619554203" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1599619554202">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599619941814" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1599619941814">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599619554202" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1599619554203">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599619941814" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1599619941815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599619554203" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599619941815" />
   </component>
 </project>
